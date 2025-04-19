@@ -1,7 +1,3 @@
-Sure! Here's a cleaner and more polished version of your SVM Optimization Experiment `README.md`, with better structure, consistent formatting, and improved readability:
-
----
-
 # 🧠 SVM Optimization Experiment
 
 ## 📌 Overview
