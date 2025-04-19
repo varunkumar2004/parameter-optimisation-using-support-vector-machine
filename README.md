@@ -98,9 +98,6 @@ pip install -r requirements.txt
 
 ```bash
 git clone https://github.com/varunkumar2004/parameter-optimisation-using-support-vector-machine.git
-cd svm-optimization-experiment
-pip install -r requirements.txt
-python svm_experiment.py
 ```
 
 ## 🤝 Contributing
